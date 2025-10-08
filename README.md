@@ -5,6 +5,11 @@
   </a>
 </p>
 
+<!-- 🌈 Nyan Cat Animation -->
+<p align="center">
+  <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="300" />
+</p>
+
 ---
 
 ### 🎮 Introduction
