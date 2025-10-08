@@ -1,7 +1,7 @@
 <!-- ✨ Animated Typing Header -->
 <p align="center">
   <a href="https://github.com/Surkov204">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Luong+Van+Tuan+Anh;A+Unity+Game+Developer+From+Viet+Nam" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Satisfy&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Luong+Van+Tuan+Anh;A+Unity+Game+Developer+From+Viet+Nam" alt="Typing SVG" />SVG" />
   </a>
 </p>
 
